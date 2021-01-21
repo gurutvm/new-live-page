@@ -50,9 +50,6 @@ function App() {
         <a href="#"><i className="fa fa-twitter"></i></a>
         <a href="#"><i className="fa fa-flickr"></i></a>
         <a href="#"><i className="fa fa-linkedin"></i></a>
-        <p className="w3-medium">
-          Powered by <a href="https://www.w3schools.com/w3css/default.asp" target="_blank">w3.css</a>
-        </p>
       </footer>
     </div>
   );
